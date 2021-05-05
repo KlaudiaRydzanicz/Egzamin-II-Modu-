@@ -1,0 +1,42 @@
+[
+    {
+        "type": "car",
+        "value": {
+            "manufacturer": "fiat",
+            "model": "500",
+            "color": "black"
+        }
+    },
+    {
+        "type": "car",
+        "value": {
+            "manufacturer": "peugeot",
+            "model": "208",
+            "color": "white"
+        }
+    },
+    {
+        "type": "truck",
+        "value": {
+            "manufacturer": "scania",
+            "model": "S5000",
+            "color": "red"
+        }
+    },
+    {
+        "type": "Plane",
+        "value": {
+            "manufacturer": "boeing",
+            "model": "737",
+            "color": "white"
+        }
+    },
+    {
+        "type": "Motorboat",
+        "value": {
+            "manufacturer": "yamaha",
+            "model": "45qw",
+            "color": "yellow"
+        }
+    }
+]
